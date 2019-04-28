@@ -1,0 +1,22 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{C396B785-493E-6CFD-1645-E5BC0C6624A6}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "Solar",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "SunPosition",
+			"Enabled": true
+		}
+	]
+}
